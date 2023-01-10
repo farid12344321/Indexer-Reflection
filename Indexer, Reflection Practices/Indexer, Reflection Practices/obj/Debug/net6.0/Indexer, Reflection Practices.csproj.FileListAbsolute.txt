@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\bin\Debug\net6.0\Indexer, Reflection Practices.exe
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\bin\Debug\net6.0\Indexer, Reflection Practices.deps.json
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\bin\Debug\net6.0\Indexer, Reflection Practices.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\bin\Debug\net6.0\Indexer, Reflection Practices.dll
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\bin\Debug\net6.0\Indexer, Reflection Practices.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.dll
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\refint\Indexer, Reflection Practices.dll
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\ref\Indexer, Reflection Practices.dll
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Indexer, Reflection\Indexer, Reflection Practices\Indexer, Reflection Practices\obj\Debug\net6.0\Indexer, Reflection Practices.csproj.CopyComplete
